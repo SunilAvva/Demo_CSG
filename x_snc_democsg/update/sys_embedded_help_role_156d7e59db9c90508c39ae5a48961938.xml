@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="democsg" name="democsg">916d7e59db9c90508c39ae5a48961935</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-20 04:25:12</sys_created_on>
+        <sys_id>156d7e59db9c90508c39ae5a48961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>916d7e59db9c90508c39ae5a48961935</sys_name>
+        <sys_package display_value="DemoCSG" source="x_snc_democsg">73ec7659db9c90508c39ae5a489619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoCSG">73ec7659db9c90508c39ae5a489619ba</sys_scope>
+        <sys_update_name>sys_embedded_help_role_156d7e59db9c90508c39ae5a48961938</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-20 04:25:12</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
